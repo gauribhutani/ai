@@ -59,7 +59,7 @@
     "autoprefixer-loader": "~3.1.0",
     "babel-eslint": "~4.1.1",
     "babel-loader": "~5.3.2",
-    "css-loader": "~0.18.0",
+    "css-loader": "~1.0.0",
     "eslint": ">=3.1.1",
     "eslint-config-airbnb": "~12.0.0",
     "eslint-loader": "~1.6.0",
@@ -73,7 +73,7 @@
     "style-loader": "~0.12.3",
     "url-loader": "~0.5.6",
     "webpack": "~1.12.1",
-    "webpack-livereload-plugin": "~0.2.1"
+    "webpack-livereload-plugin": "~0.3.0"
   },
   "engines": {
     "node": "6.9.3"
@@ -92,7 +92,7 @@
     "autoprefixer-loader": "~3.1.0",
     "babel-eslint": "~4.1.1",
     "babel-loader": "~5.3.2",
-    "css-loader": "~0.18.0",
+    "css-loader": "~1.0.0",
     "eslint": ">=3.1.1",
     "eslint-config-airbnb": "~12.0.0",
     "eslint-loader": "~1.6.0",
@@ -106,6 +106,6 @@
     "style-loader": "~0.12.3",
     "url-loader": "~0.5.6",
     "webpack": "~1.12.1",
-    "webpack-livereload-plugin": "~0.2.1"
+    "webpack-livereload-plugin": "~0.3.0"
   }
 }
